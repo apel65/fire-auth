@@ -1,0 +1,14 @@
+.App{
+    text-align: center;
+    margin-top: 5%;
+}
+.App img{
+    width: 10%;
+    border-radius: 100%;
+}
+
+.main-btn{
+    margin: 5% auto;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
